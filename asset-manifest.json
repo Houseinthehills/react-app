@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/Houseinthehills/react-app/static/css/main.31d6cfe0.css",
+    "main.js": "/Houseinthehills/react-app/static/js/main.d8b43a0c.js",
+    "index.html": "/Houseinthehills/react-app/index.html",
+    "main.d8b43a0c.js.map": "/Houseinthehills/react-app/static/js/main.d8b43a0c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.d8b43a0c.js"
+  ]
+}
