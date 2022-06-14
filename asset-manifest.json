@@ -1,13 +1,16 @@
 {
-  "files": {
-    "main.css": "/react-app/static/css/main.31d6cfe0.css",
-    "main.js": "/react-app/static/js/main.b819393d.js",
-    "static/media/slider.jpg": "/react-app/static/media/slider.36a56764b63515cb48d3.jpg",
-    "index.html": "/react-app/index.html",
-    "main.b819393d.js.map": "/react-app/static/js/main.b819393d.js.map"
-  },
-  "entrypoints": [
-    "static/css/main.31d6cfe0.css",
-    "static/js/main.b819393d.js"
-  ]
+  "main.css": "/react-app/static/css/main.7e495075.chunk.css",
+  "main.js": "/react-app/static/js/main.0d3ff04e.chunk.js",
+  "main.js.map": "/react-app/static/js/main.0d3ff04e.chunk.js.map",
+  "static/js/1.c599289c.chunk.js": "/react-app/static/js/1.c599289c.chunk.js",
+  "static/js/1.c599289c.chunk.js.map": "/react-app/static/js/1.c599289c.chunk.js.map",
+  "runtime~main.js": "/react-app/static/js/runtime~main.ec461257.js",
+  "runtime~main.js.map": "/react-app/static/js/runtime~main.ec461257.js.map",
+  "static/media/slider.jpg": "/react-app/static/media/slider.24424848.jpg",
+  "static/media/slider-2.jpg": "/react-app/static/media/slider-2.ea4fcc46.jpg",
+  "static/media/slider-3.jpg": "/react-app/static/media/slider-3.609adbc7.jpg",
+  "static/css/main.7e495075.chunk.css.map": "/react-app/static/css/main.7e495075.chunk.css.map",
+  "index.html": "/react-app/index.html",
+  "precache-manifest.09b51e101772a5fe8369f38b6d4e8c70.js": "/react-app/precache-manifest.09b51e101772a5fe8369f38b6d4e8c70.js",
+  "service-worker.js": "/react-app/service-worker.js"
 }
